@@ -17,6 +17,7 @@ Debian GNU/Linux
 
 ### Credits ###
 
+* Creator - cdmpse
 * Logo - [Skorpios PSWG](http://www.projectswg.com/topic/34330-project-swg-logos/)
 * Icons - [Linh Pham Thi Dieu](http://linhpham.me/#works)
 * SWG Icon - [InterestingJohn](http://interestingjohn.deviantart.com/art/SWG-Icon-68116934)
